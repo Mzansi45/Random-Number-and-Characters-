@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1639040016 source:c:\users\thulani\onedrive\documents\c++ functions\randomnumber&characters\randomnumber.cpp
+	"randomnumber.h"
+
+1639038518 c:\users\thulani\onedrive\documents\c++ functions\randomnumber&characters\randomnumber.h
+	<ctime>
+	<iostream>
+
+1639039916 source:c:\users\thulani\onedrive\documents\c++ functions\randomnumber&characters\main.cpp
+	<iostream>
+	"randomnumber.h"
+	"randomletter.h"
+
+1639039889 source:c:\users\thulani\onedrive\documents\c++ functions\randomnumber&characters\randomletter.cpp
+	"randomletter.h"
+
+1639039353 c:\users\thulani\onedrive\documents\c++ functions\randomnumber&characters\randomletter.h
+	"randomnumber.h"
+
